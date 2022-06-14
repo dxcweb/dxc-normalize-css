@@ -1,0 +1,15 @@
+{
+    "name": "dxc-normalize-css",
+    "version": "1.0.0",
+    "main": "normalize.css",
+    "style": "normalize.css",
+    "files": [
+      "normalize.css"
+    ],
+    "scripts": {
+        "pub": "npm publish"
+    },
+    "publishConfig": {
+        "registry": "https://registry.npmjs.org"
+    }
+  }
